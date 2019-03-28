@@ -1,16 +1,7 @@
-import React from 'react'
-import {
-  View,
-  Text,
-  Button,
-  TextInput,
-  StyleSheet,
-  TouchableHighlight,
-  Image,
-  StatusBar
-} from 'react-native';
+import
+import
 
-import Header from '../src/Header';
+import
 
 
 export default class City extends React.Component {
